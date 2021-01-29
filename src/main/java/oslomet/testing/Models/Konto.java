@@ -1,6 +1,7 @@
 package oslomet.testing.Models;
 
 import java.util.List;
+// Test
 
 public class Konto
 {
